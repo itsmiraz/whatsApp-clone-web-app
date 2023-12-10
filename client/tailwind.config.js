@@ -13,7 +13,7 @@ module.exports = {
         "dropdown-background": "#233138",
         "dropdown-background-hover": "#182229",
         "input-background": " #2a3942",
-        "primary-strong": "#e9edef",
+        "primary-strong": "#E9EDEF",
         "panel-header-background": "#202c33",
         "panel-header-icon": "#aebac1",
         "icon-lighter": "#8696a0",
